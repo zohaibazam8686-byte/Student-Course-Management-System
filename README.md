@@ -1,1 +1,0 @@
-# Student-Course-Management-System
